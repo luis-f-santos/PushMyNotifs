@@ -13,6 +13,7 @@
 		BF6722EB22FC1F45001CA356 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF6722EA22FC1F45001CA356 /* Assets.xcassets */; };
 		BF6722EE22FC1F45001CA356 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF6722EC22FC1F45001CA356 /* LaunchScreen.storyboard */; };
 		BF6722F922FC1F45001CA356 /* pushmynotifsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF6722F822FC1F45001CA356 /* pushmynotifsTests.swift */; };
+		BF67230422FC1FCA001CA356 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BF67230322FC1FC6001CA356 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		BF6722F422FC1F45001CA356 /* pushmynotifsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pushmynotifsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF6722F822FC1F45001CA356 /* pushmynotifsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pushmynotifsTests.swift; sourceTree = "<group>"; };
 		BF6722FA22FC1F45001CA356 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF67230322FC1FC6001CA356 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				BF6722E722FC1F45001CA356 /* Main.storyboard */,
 				BF6722EA22FC1F45001CA356 /* Assets.xcassets */,
 				BF6722EC22FC1F45001CA356 /* LaunchScreen.storyboard */,
+				BF67230322FC1FC6001CA356 /* GoogleService-Info.plist */,
 				BF6722EF22FC1F45001CA356 /* Info.plist */,
 			);
 			path = pushmynotifs;
@@ -180,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF6722EE22FC1F45001CA356 /* LaunchScreen.storyboard in Resources */,
+				BF67230422FC1FCA001CA356 /* GoogleService-Info.plist in Resources */,
 				BF6722EB22FC1F45001CA356 /* Assets.xcassets in Resources */,
 				BF6722E922FC1F45001CA356 /* Main.storyboard in Resources */,
 			);
